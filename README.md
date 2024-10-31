@@ -58,5 +58,31 @@ iv. Resolution - This solved our <i>availability</i> issue and allowed Jane to c
 <br /> 
 
 <h3>Scenario #2:</h3>
+i. Intake - Ken will be reporting that the office is having an Adobe outage in the accounting department.
+<br />
+<br />
+<img src="https://i.imgur.com/Xvo8EaQ.png" height="70%" width="70%" alt="Ticket submitted"/>
+<br />
+<br />
 
+John Doe will see from his admin panel that a ticket has been submitted by Ken <br />
+<br />
+<br />
+ii. Assignment and Initial Outreach- Ken has not indicated the appropriate severity level. This is a <i>moderate impact outage</i>, which requires us to change the severity level to B, as per our service level agreement. We can also assign this particular ticket to John, who provides general IT support, including software updates.
+<br />
+<br />
+<img src="https://i.imgur.com/8vSyd0O.png" height="70%" width="70%" alt="Ticket II intake and outreach"/>
+<br />
+<br />
+iii. Working the ticket - John Doe then reaches out immediately to the customer reporting the outage and gathers more information. John makes internal notes to update the SLA to Sev-B for moderate impact upon learning the issue is only affecting 2 people within the department. A contingency plan is made with the customer to restart the program and relaunch it after lunch. 
+<br />
+<img src="https://i.imgur.com/jyCeLYe.png" height="70%" width="70%" alt="Ticket II solved pt 1"/>
+<br />
+<br />
+iv. Resolution - This solved our <i>software</i> issue and allowed John to close the ticket.
+<br />
+<br />
+<img src="https://i.imgur.com/PxuDLyq.png" height="70%" width="70%" alt="Ticket II solved pt 2"/>
+<br />
+<br /> 
 
